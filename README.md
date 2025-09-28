@@ -1,4 +1,4 @@
-# vahan bazar
+# vahanbazar
 project is a bikes selling website vahanbazar
 index.html
 <!DOCTYPE html>
